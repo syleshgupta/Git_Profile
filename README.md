@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SravanTummalapalli
 - 👀 I’m interested in Artificial Intelligence.
 - 🌱 I’m currently learning Applied Machine Learning
-- 💞️ I’m looking to collaborate on ...
 - 📫 sravantummalapalli@gmail.com
 
 <!---
