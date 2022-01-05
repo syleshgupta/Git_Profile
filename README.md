@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence.
 - 🌱 I’m currently learning Applied Machine Learning
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 sravantummalapalli@gmail.com
 
 <!---
 SravanTummalapalli/SravanTummalapalli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
