@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SravanTummalapalli
-- 👀 I’m interested in Artificial Intelligence.
-- 🌱 I’m currently learning Applied Machine Learning
-- 📫 sravantummalapalli@gmail.com
+- 👀 I like exploring things in data science.
+- 🌱 I'm currently improving my skills in Python, machine learning, and deep learning.
+- 📫 You can reach me at sravantummalapalli@gmail.com
 
 <!---
 SravanTummalapalli/SravanTummalapalli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
