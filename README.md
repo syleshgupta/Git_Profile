@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 [![Sravan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SravanTummalapalli&theme=radical))](https://github.com/SravanTummalapalli/github-readme-stats)
 
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/sanayya-7499b4188/](https://www.linkedin.com/in/siva-ram-sravan-tummalapalli-272009157/)) [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sravantummalapalli)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/siva-ram-sravan-tummalapalli-272009157/)) [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sravantummalapalli)
