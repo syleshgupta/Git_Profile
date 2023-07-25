@@ -5,7 +5,7 @@
 - 👋 Hi, I’m @Sravantummalapalli
 - 👀 I like exploring things in data science.
 - 🌱 I'm currently improving my skills in Python, machine learning, and deep learning.
-- 📫 You can reach me at sravantummalapalli@gmail.com
+- 📫 𝐌𝐚𝐢𝐥 𝐌𝐞 : vamshikollipati@gmail.com
 - Fact about me: I like eating out and traveling to different places.
 
 <!---
