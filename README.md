@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SravanTummalapalli/&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=SravanTummalapalli&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 
 [![Sravan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SravanTummalapalli&theme=radical)](https://github.com/SravanTummalapalli/github-readme-stats)
