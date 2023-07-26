@@ -19,6 +19,11 @@ You can click the Preview link to take a look at your changes.
 
 ![image](https://github.com/SravanTummalapalli/SravanTummalapalli/blob/main/Sravan%20Tummalapalli.png)
 
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Kollipati&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+
+
 [![Sravan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SravanTummalapalli&theme=radical)](https://github.com/SravanTummalapalli/github-readme-stats)
 
 
