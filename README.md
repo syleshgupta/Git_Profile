@@ -2,7 +2,7 @@
 
 
 
-- 👋 Hi, I’m @Sravantummalapalli
+- 👋 Hi, I’m @Sravan_tummalapalli
 - 👀 I like exploring things in data science.
 - 🌱 I'm currently improving my skills in Python, machine learning, and deep learning.
 - 📫 𝐌𝐚𝐢𝐥 𝐌𝐞 : sravantummalapalli@gmail.com
