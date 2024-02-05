@@ -1,3 +1,6 @@
+<H1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=83C5BE&width=435&lines=Hello!!+I'm+Sravan+Tummalapalli;I'm+an+aspiring+Data+Scientist" alt="Typing SVG" /></a></H1>
+
+
 ![helo](https://user-images.githubusercontent.com/89390696/197391947-44073cab-ffa1-4f6f-b0e9-a541afc7254a.gif)
 
 
