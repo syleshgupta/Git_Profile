@@ -6,7 +6,7 @@
 
 
 
-- 👋 Hi, I’m @Sravan_Tummalapalli
+- 👋 Hi, I’m **Siva Ram Sravan Tummalapalli**
 - 👀 I like exploring things in data science.
 - 🌱 I'm currently improving my skills in Python, machine learning, and deep learning.
 - 📫 𝐌𝐚𝐢𝐥 𝐌𝐞: sravantummalapalli@gmail.com
