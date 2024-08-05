@@ -9,6 +9,7 @@
 - 👋 Hi, I’m **Siva Ram Sravan Tummalapalli**
 - 👀 I like exploring things in data science.
 - 🌱 I'm currently improving my skills in Python, machine learning, and deep learning.
+- 💬 My aim is I want to shine in Data Science field
 - 📫 𝐌𝐚𝐢𝐥 𝐌𝐞: sravantummalapalli@gmail.com
 - Fact about me: Still searching 
 
