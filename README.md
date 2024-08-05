@@ -35,15 +35,6 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SravanTummalapalli&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SravanTummalapalli&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-### [Wakatime-stats](https://github.com/SravanTummalapalli-readme-stats) - [SravanTummalapalli]([https://github.com/anmol098](https://github.com/SravanTummalapalli))
-![preview](https://user-images.githubusercontent.com/25841814/79395484-5081ae80-7fac-11ea-9e27-ac91472e31dd.png)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SravanTummalapalli&layout=compact&theme=swift)
-
-
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
@@ -53,3 +44,9 @@ You can click the Preview link to take a look at your changes.
 
 
 ![badge](https://user-images.githubusercontent.com/89390696/197448264-f7fcd57c-77b0-488c-9360-c38fcc13afca.svg)
+
+
+### :writing_hand: Blog Posts :
+<!-- BLOG-POST-LIST:START -->
+(https://medium.com/@sravantummalapalli)
+<!-- BLOG-POST-LIST:END -->
