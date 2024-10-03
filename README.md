@@ -44,9 +44,3 @@ You can click the Preview link to take a look at your changes.
 
 
 ![badge](https://user-images.githubusercontent.com/89390696/197448264-f7fcd57c-77b0-488c-9360-c38fcc13afca.svg)
-
-
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-(https://medium.com/@sravantummalapalli)
-<!-- BLOG-POST-LIST:END -->
