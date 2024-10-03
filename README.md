@@ -1,4 +1,4 @@
-<H1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=83C5BE&width=435&lines=Hello!!+I'm+Sravan+Tummalapalli;I'm+an+aspiring+Data+Scientist" alt="Typing SVG" /></a></H1>
+<H1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=83C5BE&width=435&lines=Hello!!+I'm+Sravan+Tummalapalli;I'm+a+Data+Scientist" alt="Typing SVG" /></a></H1>
 
 ### Hey Guys, Heart Fully Thanks For Visit My Profile
 
