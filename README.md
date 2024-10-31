@@ -70,4 +70,5 @@ You can click the Preview link to take a look at your changes.
 
 
 
-![badge](https://user-images.githubusercontent.com/89390696/197448264-f7fcd57c-77b0-488c-9360-c38fcc13afca.svg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SravanTummalapalli&label=Profile%20views&color=0e75b6&style=flat" alt="SravanTummalapalli" /> </p>
+
