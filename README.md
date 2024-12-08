@@ -64,6 +64,9 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SravanTummalapalli&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SravanTummalapalli&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SravanTummalapalli&hide=java,html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
