@@ -11,12 +11,12 @@
 
 
 
-- 👋 Hi, I’m **Siva Ram Sravan Tummalapalli**
-- 👀 I like exploring things in data science.
-- 🌱 I'm currently improving my skills in Python, machine learning, and deep learning.
-- 💬 My aim is I want to shine in Data Science field
-- 📫 𝐌𝐚𝐢𝐥 𝐌𝐞: sravantummalapalli@gmail.com
-- Fact about me: Still searching 
+- 👋 Hi, I’m **Sai Sylesh Gupta Namburu**
+- 👀 Data and Business Enthusiast.
+- 🌱 Nurturing my skills to suit current deep tech.
+- 💬 Up-to-date with current technology
+- 📫 𝐌𝐚𝐢𝐥 𝐌𝐞: syleshnamburu@gmail.com
+- Fact about me: Well, nothing specific as such. Normal guy adhering the global order 
 
 <!---
 SravanTummalapalli/SravanTummalapalli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
