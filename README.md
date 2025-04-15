@@ -1,6 +1,6 @@
 <H1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=83C5BE&width=435&lines=Hello!!+I'm+Sylesh+Gupta;Currently,+working+as+a+Senior+Machine+Learning+Engineer+at+Nissan+Motors" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=83C5BE&width=435&lines=Hello!!+I'm+Sylesh+Gupta;Currently,+working+as+a+Senior+ML+at+Nissan+Motors" alt="Typing SVG" />
   </a>
 </H1>
 
