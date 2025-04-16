@@ -37,7 +37,6 @@ You can click the Preview link to take a look at your changes.
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
-![Alterxy](https://img.shields.io/badge/alteryx-18BFFF?style=for-the-badge&logo=alteryx&logoColor=white)
 ![Tableau](https://img.shields.io/badge/tableau-6f1ab1?style=for-the-badge&logo=tableau&logoColor=white) 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
@@ -50,7 +49,7 @@ You can click the Preview link to take a look at your changes.
 ![Docker](https://img.shields.io/badge/Docker-%23000000.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
-![image](https://github.com/SravanTummalapalli/SravanTummalapalli/blob/main/Sravan%20Tummalapalli.png)
+![image](https://github.com/SyleshGupta/SyleshGupta/blob/main/Sravan%20Tummalapalli.png)
 
 
 ## 🏆 GitHub Trophies
